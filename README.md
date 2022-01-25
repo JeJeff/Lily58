@@ -2,8 +2,6 @@
 Lily58 is 6*4+4keys column-staggered split keyboard.
 ![Lily58Lite-Pic](https://user-images.githubusercontent.com/6285554/84393842-13960900-ac37-11ea-811e-65db2948ca73.jpg)
 
-This fork adds the Lily58 Ultra, which uses through-hole diodes and adds MX hotswap sockets, per-key and/or backlight LEDs, and rotary encoder support.  
-
 ## [Document Site Here](https://kata0510.github.io/Lily58-Document/)
 
 # Type
